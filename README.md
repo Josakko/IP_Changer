@@ -4,7 +4,9 @@ ChangerIP ipv4 address on linux machine
 
 # Usage
 
-Nothing here
+Make sure to run the script as root using following command
+
+    sudo python3 main.py
 
 ## Need Help?
 
