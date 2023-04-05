@@ -2,7 +2,7 @@
 
 ChangerIP ipv4 address on linux machine
 
-# Usage
+## Usage
 
 Make sure to run the script as root using following command
 
